@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [Penny Expense Manager](https://github.com/chinmaypurav/penny-expense-manager)
+
 <!--
 **chinmaypurav/chinmaypurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
