@@ -1,7 +1,8 @@
 ## whoami 👋
 
 A self taught ever learning software developer, with PHP Laravel (4+ years) as core skillset. I am a core backend developer with good understanding to integrate with the front end parts.
-I am also an enthusiast pen tester, with penetration knowledge I reach out to the code owners and help them notice and fix thier vulnerabilities at no cost; out of goodwill. This also helps me level up my security knowledge to myself and share it with others.
+
+I am also an enthusiast pen-tester, with penetration knowledge I reach out to the code owners and help them notice and fix thier vulnerabilities at no cost; out of goodwill. This also helps me level up my security knowledge to myself and share it with others.
 
 ## Skills & Technologies
 
