@@ -23,6 +23,7 @@ I am also an enthusiast pen-tester, with penetration knowledge I reach out to th
 - Linux
 - Postman
 - MySQL/MariaDB
+- Sentry
 
 ### Laravel TDD
 
@@ -31,6 +32,7 @@ I am also an enthusiast pen-tester, with penetration knowledge I reach out to th
 ## Projects Executed
 - Laravel Reverb on Production
 - Sonarqube Installation and configuration on AWS
+- Multi Tenancy with Laravel - single and multi database both.
 - Dockering many projects 
 
 ## Current Projects
